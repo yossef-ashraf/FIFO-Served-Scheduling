@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "queue.h"
+#include "queue.c"
+
 int isValid(char *);
 void setNumProcess(int *);
 void setProcessDetail(int ,Queue *);
